@@ -1,6 +1,2 @@
-c
-some to do
-something
-smth
-new todo
-somdads
+something to do
+next todo
